@@ -40,7 +40,7 @@ The dashboard helps visualize key business insights such as sales, orders, custo
 ---
 
 ## 📂 Files Included
-- `Prime Outfit Shop Annual Report.xlsx` → Main project file  
+- `Prime Outfit Shop Sales Data 2022.xlsx` → Main project file  
 - `Sales Dashboard.png` → Dashboard Screenshot  
 
 ---
